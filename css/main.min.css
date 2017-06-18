@@ -1,0 +1,10 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+body p {
+  color: red;
+  border: 1px solid green;
+  font-size: 40px;
+}
